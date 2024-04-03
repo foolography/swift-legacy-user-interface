@@ -1,5 +1,5 @@
 // FIXME: Does not support single expression yet.
-@_functionBuilder
+@resultBuilder
 public enum LayoutBuilder {
   public typealias Component<Content> = [AnyLayout<Content>]
 
